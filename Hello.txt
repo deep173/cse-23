@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="uft-8">
+<title>WEB</title>
+</head>
+
+<body>
+<h1>WELCOME TO THE WEB</h1>
+<p>Good mornimg everyone</p>
+</body>
+
+</html>
